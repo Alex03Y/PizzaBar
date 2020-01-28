@@ -1,0 +1,21 @@
+{
+    "name": "PizzaBar",
+    "references": [
+        "GUID:098554ced12cc4dfba261a0d8e0340cc",
+        "GUID:7d538cb6225ec4041a0c6c08f524264a",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:39622811044449c4bb8938aaace09381",
+        "GUID:834d89284e82cf64bb16e2ceb9569539"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "iOS"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
